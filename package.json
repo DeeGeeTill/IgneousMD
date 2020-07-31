@@ -1,0 +1,9 @@
+{
+	"name": "obsidian-dev",
+	"description": "Obsidian",
+	"version": "0.7.3",
+	"license": "UNLICENSED",
+	"author": "Obsidian",
+	"private": true,
+	"main": "index.js"
+}
